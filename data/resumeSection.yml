@@ -4,10 +4,10 @@ topTitle: My Resume
 title: >
   ## My journey
 
-  Discovering the “world of data” during my PhD was a turning point for me. The countless hours 
-  spent analyzing transcriptomics datasets and collaborating with experienced Data Scientists 
-  opened my eyes to the impactful possibilities of Data Science, 
-  leading me down the path of becoming a Data Scientist myself.
+  Discovering the world of data during my PhD was a turning point. The countless hours spent analysing transcriptomics datasets 
+  and collaborating with Data Scientists opened my eyes to the real-world impact of data-driven work.  
+  That experience set me on the path toward Data Science and Analytics,
+  where I strive to achieve the perfect balance between analytical depth, problem-solving, and meaningful impact.
 
 tab1Name: Experience
 tab2Name: Education
@@ -19,11 +19,12 @@ education:
   - content: >
       #### N26 (Fintech)
 
-      As a **Data Analyst**, I combine advanced analytics with data science methods to support product decisions 
-      across Payments and Memberships. I lead deep-dive analyses, design experimentation strategies, and build predictive 
-      frameworks that help teams understand adoption, revenue drivers, and customer behavior. Working end-to-end—from 
-      shaping questions to delivering clear recommendations, I bring structure to ambiguous problems. I also partner closely 
-      with Product, Engineering, and Business to turn data into actionable strategy.
+      As a **Data Analyst**, I combine advanced analytics with inference methods to support product decisions. 
+      I lead deep-dive analyses, design experimentation strategies, and build predictive 
+      frameworks that help teams understand adoption, revenue drivers, and customer behavior. Working end-to-end—from shaping questions to 
+      delivering clear recommendations, I bring structure to ambiguous problems. 
+      
+      I also partner closely with Product, Engineering, and Business to turn data into actionable strategy.
     time: Dec 2024 to present
   - content: >
       #### OLX (E-commerce)
