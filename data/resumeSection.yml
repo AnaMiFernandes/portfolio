@@ -17,25 +17,27 @@ tab2Target: experience
 education:
 # add experience here
   - content: >
-      #### OLX
+      #### N26 (Fintech)
+
+      As a **Data Analyst**, I combine advanced analytics with data science methods to support product decisions 
+      across Payments and Memberships. I lead deep-dive analyses, design experimentation strategies, and build predictive 
+      frameworks that help teams understand adoption, revenue drivers, and customer behavior. Working end-to-end—from 
+      shaping questions to delivering clear recommendations, I bring structure to ambiguous problems. I also partner closely 
+      with Product, Engineering, and Business to turn data into actionable strategy.
+    time: Dec 2024 to present
+  - content: >
+      #### OLX (E-commerce)
 
       As a **Junior Data Scientist**, I successfully developed and deployed a Customer Potential model 
-      in three European markets, and spearheaded a Self-Service model that boosted user spending by 14%.  
+      in three European markets, and spearheaded a Self-Service model that boosted user spending by 13%.
+      I also took the initiative to design and develop a Reply Assistant model for Customer Support, using 
+      advanced NLP techniques and Transformer models, with with 99% prediction accuracy.
       
-      
-      Both projects involved close collaboration with Engineering, Customer Success, and Sales teams, 
+      All projects involved close collaboration with Engineering, Customer Success, and Sales teams, 
       highlighting my ability to bridge gaps between data and business applications.
-    time: Jan 2022 to present
+    time: Jul 2021 to March 2024
   - content: >
-      #### OLX
-
-      As a **Data Science Trainee**, I took the initiative to design and develop a Reply Assistant 
-      model for Customer Support, using advanced NLP techniques and Transformer models, with with 99%
-      prediction accuracy.
-
-    time: Jul 2021 to Dec 2021
-  - content: >
-      #### BIMSB, MDC
+      #### BIMSB-MDC & NYU
 
       As a **PhD researcher**, I led research at the crossroads of RNA biology, Transcription, and Neurobiology 
       and honed my skills in experiment design, execution, and analysis. Communicating complex findings to 
