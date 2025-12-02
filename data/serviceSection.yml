@@ -12,25 +12,34 @@ service:
 
       Python 
       • SQL 
-      • R
+      • Pandas 
+      • NumPy 
+      • Scikit-learn
+      • Statsmodels 
     image: images/service/coding.png
   - content: >
-      #### Data Science 
+      #### ML & Analytics
 
       Supervised & Unsupervised ML
       • NLP
+      • Statistical Analysis & Inference
+      • Segmentation & Behavioral Analysis
       • A/B Testing
-      • Deployment 
-      
+      • Deployment   
     image: images/service/ai.png
   - content: >
-      #### Tech Stack 
+      #### Tools
 
-      AWS (Batch, Sagemaker)  
+      • Pandas
+      • NumPy
+      • Scikit-learn
+      • Hugging Face
+      • Matplotlib
+      • Seaborn,
+      • AWS (Redshift, Sagemaker)
       • Docker  
       • Git  
       • Airflow  
-    
     image: images/service/tech_stack.png
   # - content: >
   #     #### Soft Skills 
