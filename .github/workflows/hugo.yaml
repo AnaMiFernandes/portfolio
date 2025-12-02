@@ -65,6 +65,10 @@ jobs:
         with:
           name: github-pages
           path: ./public
+        - name: Upload Pages artifact
+          uses: actions/upload-pages-artifact@v1
+          with:
+            path: ./public
 
   # Deployment job
   deploy:
@@ -85,7 +89,6 @@ jobs:
           echo "Downloaded artifact size and contents:"
           du -sh artifact || true
           find artifact -maxdepth 5 -ls || true
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
