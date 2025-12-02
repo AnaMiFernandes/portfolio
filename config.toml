@@ -1,6 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-paginate = 6
+
+[pagination]
+	pagerSize = 6
 # Main Menu
 [[menu.main]]
 name = "Home"
